@@ -59,7 +59,7 @@ export const PROJECTS = [
     year: "2021",
     image: project3,
     name: "Data Mining and Privacy (FSE-150)",
-    description: `Research focuses on how data mining affects users' privacy and scientists are trying to mitigate the issue.`,
+    description: `Research focuses on how data mining affects users' privacy and how Data scientists are trying to mitigate the issue.`,
     technologies: ["Python", "Data Mining", "Data Analysis"],
   },
   {
